@@ -15,7 +15,7 @@ knitr::opts_chunk$set(tidy = FALSE, warning = FALSE, message = FALSE)
 
 This assignment reinforces ideas in Module 4: Constrained Optimization. We focus specifically on implementing quantile regression and LASSO.
 
-Github link: [https://github.com/xxou617/bios731_hw4_ou](https://github.com/xxou617/bios731_hw4_ou)
+Github link: [https://github.com/xxou/bios731_hw4_ou](https://github.com/xxou/bios731_hw4_ou)
 
 ```{r}
 library(tidyverse)
